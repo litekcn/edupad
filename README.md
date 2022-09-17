@@ -6,11 +6,11 @@
 
 🚧 Education Board Helper  | 教育白板工具
 
-[![release](https://img.shields.io/github/v/release/xwtlt/edupad?logoColor=ff69b4&style=for-the-badge)](https://github.com/xwtlt/lidoc/releases)[![download](https://img.shields.io/github/downloads/xwtlt/edupad/total?style=for-the-badge)](https://github.com/xwtlt/edupad/releases)[![MIT](https://img.shields.io/github/license/xwtlt/lidoc?color=green&style=for-the-badge)](https://github.com/xwtlt/edupad/blob/master/LICENSE)
+[![release](https://img.shields.io/github/v/release/xwtlt/edupad?logoColor=ff69b4&style=for-the-badge)](https://github.com/xwtlt/edupad/releases)[![download](https://img.shields.io/github/downloads/xwtlt/edupad/total?style=for-the-badge)](https://github.com/xwtlt/edupad/releases)[![MIT](https://img.shields.io/github/license/xwtlt/lidoc?color=green&style=for-the-badge)](https://github.com/xwtlt/edupad/blob/master/LICENSE)
 
 简体中文 | 繁体中文 | English | Russian
 
-**[立即获取](https://github.com/xwtlt/lidoc/release) [文档](https://teahousegroup.github.io/lidoc-download) [更新日志](#更新日志)**
+**[立即获取](https://github.com/xwtlt/edupad/release) [网站](https://edupad.licn.eu.org) [更新日志](#更新日志)**
 
 ------
 
@@ -22,7 +22,7 @@
 
 ## :cd: 安装与使用
 
-在 [Github Release](https://github.com/xwtlt/lidoc/release) 或 [EduPad](https://teahousegroup.github.io/edupad) 中下载 EduPad。
+在 [Github Release](https://github.com/xwtlt/edupad/release) 或 [EduPad](https://edupad.licn.eu.org) 中下载 EduPad。
 
 - 若没有压缩软件，可直接选择下载 | 自部署版。
 
@@ -55,7 +55,7 @@ EduPad 安装成功后，即可开始使用。
 **感谢以下人与事的赞助：**
 
 - AirDesk - 提供自核酸服务 
-- He Magicboard - 解放了双手，帮助我写代码
+- 会自己打字的键盘 - 解放了双手，帮助我写代码
 - 李安旭先生 - 对程序进行一个鉴赏与锐评
 - 王海洋先生 - 泄露他人内容，提升开发效率
 
