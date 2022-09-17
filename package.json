@@ -1,0 +1,14 @@
+{
+  "name": "edupad",
+  "version": "1.0.0",
+  "description": "🚧 Education Board Helper  | 教育白板工具",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "start": "electron ./src/main.js"
+}
