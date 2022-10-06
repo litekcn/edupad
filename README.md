@@ -1,16 +1,8 @@
-<img src="https://alpha-q3.sourcegcdn.com/2022/09/17/T1wNehCU.png" alt="2022/09/17/T1wNehCU.png" />
-
-<img src="https://alpha-q3.sourcegcdn.com/2022/09/17/kZtGpcvD.png" alt="2022/09/17/kZtGpcvD.png" />
-
-# EduPad
-
-🚧 Education Board Helper  | 教育白板工具
-
-[![release](https://img.shields.io/github/v/release/xwtlt/edupad?logoColor=ff69b4&style=for-the-badge)](https://github.com/xwtlt/edupad/releases)[![download](https://img.shields.io/github/downloads/xwtlt/edupad/total?style=for-the-badge)](https://github.com/xwtlt/edupad/releases)[![MIT](https://img.shields.io/github/license/xwtlt/lidoc?color=green&style=for-the-badge)](https://github.com/xwtlt/edupad/blob/master/LICENSE)
-
-简体中文 | 繁体中文 | English | Russian
-
-**[立即获取](https://github.com/xwtlt/edupad/release) [网站](https://edupad.licn.eu.org) [更新日志](#更新日志)**
+<div align = "center">
+  <img src="https://alpha-q3.sourcegcdn.com/2022/09/17/T1wNehCU.png" alt="2022/09/17/T1wNehCU.png" />
+  <img src="https://alpha-q3.sourcegcdn.com/2022/09/17/kZtGpcvD.png" alt="2022/09/17/kZtGpcvD.png" />
+  <h1>EduPad</h1>
+  <b>🚧 Education Board Helper  | 教育白板工具</b>
 
 ------
 
