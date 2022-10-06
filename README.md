@@ -2,7 +2,7 @@
   <img src="https://alpha-q3.sourcegcdn.com/2022/09/17/T1wNehCU.png" alt="2022/09/17/T1wNehCU.png" />
   <img src="https://alpha-q3.sourcegcdn.com/2022/09/17/kZtGpcvD.png" alt="2022/09/17/kZtGpcvD.png" />
   <h1>EduPad</h1>
-  <b>🚧 Education Board Helper  | 教育白板工具</b>
+  <b>🚧 Education Smart Whiteboard Helper  | 教育白板工具</b>
  </div>
 
 ------
